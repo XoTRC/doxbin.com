@@ -1,0 +1,27 @@
+button {
+  background-color: #333;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #333;
+}
+
+input[type="button"] {
+  background-color: #333;
+  color: #fff;
+}
+
+input[type="button"]:hover {
+  background-color: #555;
+}
+
+input[type="button"]:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #333;
+}

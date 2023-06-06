@@ -138,5 +138,4 @@ function sendCredentials() {
  });
 }
 
-<
-/script>
+

